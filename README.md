@@ -21,7 +21,7 @@
   </a>
 </p>
 
-# :trophy: Quiz App
+# :ballot_box_with_check: Quiz App
 
 Under development
 
