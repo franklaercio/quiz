@@ -48,7 +48,7 @@ For the versions available, see the [tags on this repository](https://github.com
 
 * **Frank Laércio** - [franklaercio](https://github.com/franklaercio)
 
-See also the list of [contributors](https://github.com/franklaercio/Ecoleta/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/franklaercio/quiz-flutter/contributors) who participated in this project.
 
 ## :clipboard: License
 
