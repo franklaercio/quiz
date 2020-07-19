@@ -42,7 +42,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## :chart_with_upwards_trend: Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/franklaercio/Ecoleta/tags). 
+For the versions available, see the [tags on this repository](https://github.com/franklaercio/quiz-flutter/tags). 
 
 ## :man_technologist: Authors
 
