@@ -23,7 +23,7 @@
 
 # :ballot_box_with_check: Quiz App
 
-Under development
+This is an app the answers and questions. It consists only in answering the questions and in the end having an answer about your personality. 
 
 ## :mag_right: Getting Started
 
