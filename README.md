@@ -26,7 +26,7 @@
 This is an app the answers and questions. It consists only in answering the questions and in the end having an answer about your personality. 
 
 <p>
-<img src="assets/images/print_screen_1.jpeg" width="200">  <img src="assets/images/print_screen_2.jpeg" width="200">  <img src="assets/images/print_screen_3.jpeg" width="200"> <img src="assets/images/print_screen_4.jpeg" width="200">
+<img src="assets/images/print_screen_1.png" width="200">  <img src="assets/images/print_screen_2.png" width="200">  <img src="assets/images/print_screen_3.png" width="200"> <img src="assets/images/print_screen_4.png" width="200">
 </p>
 
 ## :mag_right: Getting Started
