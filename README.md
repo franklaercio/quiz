@@ -23,7 +23,7 @@
 
 # :ballot_box_with_check: Quiz App
 
-This is an app the answers and questions. It consists only in answering the questions and in the end having an answer about your personality. 
+This is an app the answers and questions. It consists only in answering the questions and in the end having an answer about your personality. You will answer 3 questions and in the final You will get your funny pernallity.
 
 <p>
 <img src="assets/images/print_screen_1.png" width="200">  <img src="assets/images/print_screen_2.png" width="200">  <img src="assets/images/print_screen_3.png" width="200"> <img src="assets/images/print_screen_4.png" width="200">
